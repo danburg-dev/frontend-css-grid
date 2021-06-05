@@ -25,7 +25,7 @@ Oké, je mag weer aan je laptop komen!
 
 4. Doe even alsof CSS Grid niet bestaat. Maak een simpel container element in `grid-opdracht.html` met daarin de item elementen.
 5. Wijs alvast de kleuren toe en zet de letters A - F in de items. Zorg dat de letters netjes in het midden van elk item komen te staan met behulp van flexbox.
-6. Tijd om het geraamte neer te zetten. Maak van de container een grid-element en beschrijf de `grid-template-rows` en `grid-template-columns` aan de hand van jouw schets.
+6. Tijd om het geraamte neer te zetten. Maak van de cosntainer een grid-element en beschrijf de `grid-template-rows` en `grid-template-columns` aan de hand van jouw schets.
 7. Geef ieder item een `grid-area` naam
 8. Gebruik deze namen om de items aan de grid toe te wijzen met behulp van de `grid-template-areas`
 9. Teken nu het plaatje voor _Mobiel_ over op papier. Teken de grid-lijnen over de blokken heen en schrijf de hoogtes en breedtes van de kolommen en rijen erbij.
